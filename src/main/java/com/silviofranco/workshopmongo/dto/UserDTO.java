@@ -1,4 +1,4 @@
-package com.silviofranco.workshopmongo.DTO;
+package com.silviofranco.workshopmongo.dto;
 
 import com.silviofranco.workshopmongo.domain.User;
 import lombok.Getter;

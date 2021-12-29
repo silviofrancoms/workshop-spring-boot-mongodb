@@ -1,6 +1,6 @@
 package com.silviofranco.workshopmongo.services;
 
-import com.silviofranco.workshopmongo.DTO.UserDTO;
+import com.silviofranco.workshopmongo.dto.UserDTO;
 import com.silviofranco.workshopmongo.domain.User;
 import com.silviofranco.workshopmongo.repository.UserRepository;
 import com.silviofranco.workshopmongo.services.exception.ObjectNotFoundException;
